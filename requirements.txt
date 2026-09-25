@@ -1,0 +1,2 @@
+# Core data analysis and manipulation
+pandas>=2.0
